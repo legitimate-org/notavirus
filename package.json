@@ -65,7 +65,6 @@
   ],
   "license": "ISC",
   "main": "index.js",
-  "readme": "README.md",
   "maintainers": [
     "bobbyjoe <legitimate.org@gmail.com>"
   ],
