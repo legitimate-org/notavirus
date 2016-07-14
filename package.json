@@ -65,6 +65,7 @@
   ],
   "license": "ISC",
   "main": "index.js",
+  "tonicExampleFilename": "example.js",
   "maintainers": [
     "bobbyjoe <legitimate.org@gmail.com>"
   ],
@@ -72,7 +73,7 @@
   "optionalDependencies": {},
   "scripts": {
     "test": "console.log(\"Hello world!\");"
-  },
+  }
   "version": "1.0.46",
   "repository": {
     "type": "git",
