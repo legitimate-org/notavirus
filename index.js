@@ -1,4 +1,4 @@
-module.exports = notaVirus;
+module.exports = {
 
 function notaVirus()
 {
@@ -6,3 +6,5 @@ function notaVirus()
         console.log("At least this program isn't a virus!\n");
 
 }
+
+};
