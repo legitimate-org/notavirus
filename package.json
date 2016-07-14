@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "notavirus",
+        "scope": null,
+        "escapedName": "notavirus",
+        "name": "notavirus",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/admin/Desktop/nodejs"
+    ]
+  ],
+  "_from": "notavirus@latest",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/notavirus",
+  "_nodeVersion": "0.10.42",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/notavirus-1.0.35.tgz_1468424530721_0.15074052033014596"
+  },
+  "_npmUser": {
+    "name": "bobbyjoe",
+    "email": "legitimate.org@gmail.com"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "notavirus",
+    "scope": null,
+    "escapedName": "notavirus",
+    "name": "notavirus",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/notavirus/-/notavirus-1.0.35.tgz",
+  "_shasum": "ff645ea35974c0109915df9fd00184757a18673e",
+  "_shrinkwrap": null,
+  "_spec": "notavirus",
+  "_where": "/home/admin/Desktop/nodejs",
+  "author": "Bobby Joe",
+  "dependencies": {},
+  "description": "not a virus :D",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ff645ea35974c0109915df9fd00184757a18673e",
+    "tarball": "https://registry.npmjs.org/notavirus/-/notavirus-1.0.35.tgz"
+  },
+  "keywords": [
+    "not",
+    "a",
+    "virus",
+    "notavirus",
+    "bobby",
+    "joe",
+    "bobbyjoe"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "readme": "README.md",
+  "maintainers": [
+    "bobbyjoe <legitimate.org@gmail.com>"
+  ],
+  "name": "notavirus",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "console.log(\"Hello world!\");"
+  },
+  "version": "1.0.40"
+}
