@@ -74,5 +74,13 @@
   "scripts": {
     "test": "console.log(\"Hello world!\");"
   },
-  "version": "1.0.40"
+  "version": "1.0.40",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legitimate-org/notavirus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/legitimate-org/notavirus/issues"
+  },
+  "homepage": "https://github.com/legitimate-org/notavirus#readme"
 }
